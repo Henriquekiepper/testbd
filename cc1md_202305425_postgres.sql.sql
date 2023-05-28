@@ -1,4 +1,4 @@
-/* Script SQL do pset referente ao bando de dados 'lojas uvv'
+/* Script SQL do pset referente ao bando de dados 'lojas uvv' 
  Henrique miranda kiepper cc1md_202305425_postgresql.sql */
 /* comando drop user e database se já houver algum usuario e banco de dados com mesmo nome dos que serão criados a seguir */
 drop database if exists uvv;
